@@ -1,0 +1,39 @@
+
+div
+{
+	border-radius:6px;
+	margin-top:150px;
+	margin-right:800px;
+	margin-left:400px;
+	padding:10px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+label
+{
+	font-size:x-large;
+	color:rebeccapurple;
+}
+
+input{
+font-size: large;
+padding-top: 5px;
+padding-bottom: 5px;
+border-bottom: 1px solid black;
+}
+
+button
+{
+	padding: 5px;
+	font-size: large;
+	border:none;
+	border-radius: 5px;
+}
+select{
+
+}
+p{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: larger;
+	color: rgb(43, 59, 199);
+}
